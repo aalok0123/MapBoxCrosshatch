@@ -1,1 +1,1 @@
-Sample Application for Mapbox and Crosshatch.
+Sample Application for Mapbox and Crosshatch
