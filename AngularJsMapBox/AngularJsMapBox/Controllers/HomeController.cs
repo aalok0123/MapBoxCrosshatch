@@ -12,6 +12,8 @@ namespace AngularJsMapBox.Controllers
         public ActionResult Index()
         {
             return View();
+
+
         }
     }
 }
